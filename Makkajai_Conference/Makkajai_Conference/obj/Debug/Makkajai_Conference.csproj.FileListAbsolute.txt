@@ -1,0 +1,6 @@
+C:\Users\PuneethUmeshBharadwa\Source\repos\Makkajai_Conference\Makkajai_Conference\obj\Debug\Makkajai_Conference.csproj.CoreCompileInputs.cache
+C:\Users\PuneethUmeshBharadwa\Source\repos\Makkajai_Conference\Makkajai_Conference\bin\Debug\Makkajai_Conference.exe.config
+C:\Users\PuneethUmeshBharadwa\Source\repos\Makkajai_Conference\Makkajai_Conference\bin\Debug\Makkajai_Conference.exe
+C:\Users\PuneethUmeshBharadwa\Source\repos\Makkajai_Conference\Makkajai_Conference\bin\Debug\Makkajai_Conference.pdb
+C:\Users\PuneethUmeshBharadwa\Source\repos\Makkajai_Conference\Makkajai_Conference\obj\Debug\Makkajai_Conference.exe
+C:\Users\PuneethUmeshBharadwa\Source\repos\Makkajai_Conference\Makkajai_Conference\obj\Debug\Makkajai_Conference.pdb
